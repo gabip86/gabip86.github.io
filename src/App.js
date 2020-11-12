@@ -47,8 +47,8 @@ class App extends React.Component {
             <div>
                 <div className="wrapper">
                     <div className="main">
-                        <div className="container">
-                            <div className="row">
+                        <div>
+                            <div className="row-weather">
                                 <div className="col-xs-5 title-container">
                                     <Titles />
                                 </div>
